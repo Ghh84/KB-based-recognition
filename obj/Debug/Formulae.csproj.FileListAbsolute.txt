@@ -1,0 +1,129 @@
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\bin\Debug\Sample_Ex.exe.config
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\bin\Debug\Sample_Ex.exe
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\bin\Debug\Sample_Ex.pdb
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\bin\Debug\dotNetRDF.dll
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\bin\Debug\HtmlAgilityPack.dll
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\bin\Debug\IronPython.dll
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\bin\Debug\IronPython.Modules.dll
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\bin\Debug\IronPython.SQLite.dll
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\bin\Debug\IronPython.Wpf.dll
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\bin\Debug\Microsoft.Dynamic.dll
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\bin\Debug\Microsoft.Scripting.dll
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\bin\Debug\Microsoft.Scripting.Metadata.dll
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\bin\Debug\Newtonsoft.Json.dll
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\bin\Debug\VDS.Common.dll
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\bin\Debug\Lucene.Net.dll
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\bin\Debug\dotNetRDF.xml
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\bin\Debug\dotNetRDF.Query.FullText.pdb
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\bin\Debug\dotNetRDF.Query.FullText.xml
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\bin\Debug\dotNetRDF.Sparql.Core.pdb
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\bin\Debug\dotNetRDF.Sparql.Core.xml
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\bin\Debug\HtmlAgilityPack.pdb
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\bin\Debug\HtmlAgilityPack.xml
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\bin\Debug\IronPython.xml
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\bin\Debug\IronPython.Modules.xml
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\bin\Debug\IronPython.SQLite.xml
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\bin\Debug\IronPython.Wpf.xml
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\bin\Debug\Microsoft.Dynamic.xml
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\bin\Debug\Microsoft.Scripting.xml
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\bin\Debug\Microsoft.Scripting.Metadata.xml
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\bin\Debug\Newtonsoft.Json.xml
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\bin\Debug\VDS.Common.pdb
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\bin\Debug\VDS.Common.xml
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\obj\Debug\Formulae.csprojAssemblyReference.cache
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\obj\Debug\Sample_Ex.Formulae.resources
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\obj\Debug\Sample_Ex.Properties.Resources.resources
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\obj\Debug\Formulae.csproj.GenerateResource.cache
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\obj\Debug\Formulae.csproj.CopyComplete
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\obj\Debug\Sample_Ex.exe
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_KBNN_App\obj\Debug\Sample_Ex.pdb
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\bin\Debug\Sample_Ex.exe.config
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\bin\Debug\Sample_Ex.exe
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\bin\Debug\Sample_Ex.pdb
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\bin\Debug\dotNetRDF.dll
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\bin\Debug\HtmlAgilityPack.dll
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\bin\Debug\IronPython.dll
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\bin\Debug\IronPython.Modules.dll
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\bin\Debug\IronPython.SQLite.dll
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\bin\Debug\IronPython.Wpf.dll
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\bin\Debug\Microsoft.Dynamic.dll
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\bin\Debug\Microsoft.Scripting.dll
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\bin\Debug\Microsoft.Scripting.Metadata.dll
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\bin\Debug\Newtonsoft.Json.dll
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\bin\Debug\VDS.Common.dll
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\bin\Debug\Lucene.Net.dll
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\bin\Debug\dotNetRDF.xml
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\bin\Debug\dotNetRDF.Query.FullText.pdb
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\bin\Debug\dotNetRDF.Query.FullText.xml
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\bin\Debug\dotNetRDF.Sparql.Core.pdb
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\bin\Debug\dotNetRDF.Sparql.Core.xml
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\bin\Debug\HtmlAgilityPack.pdb
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\bin\Debug\HtmlAgilityPack.xml
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\bin\Debug\IronPython.xml
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\bin\Debug\IronPython.Modules.xml
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\bin\Debug\IronPython.SQLite.xml
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\bin\Debug\IronPython.Wpf.xml
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\bin\Debug\Microsoft.Dynamic.xml
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\bin\Debug\Microsoft.Scripting.xml
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\bin\Debug\Microsoft.Scripting.Metadata.xml
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\bin\Debug\Newtonsoft.Json.xml
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\bin\Debug\VDS.Common.pdb
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\bin\Debug\VDS.Common.xml
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\obj\Debug\Formulae.csprojAssemblyReference.cache
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\obj\Debug\Sample_Ex.Formulae.resources
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\obj\Debug\Sample_Ex.Properties.Resources.resources
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\obj\Debug\Formulae.csproj.GenerateResource.cache
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\obj\Debug\Formulae.csproj.CopyComplete
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\obj\Debug\Sample_Ex.exe
+E:\Second Semester\Software Development Technologies\Formulae\Hagos_Formulae_App\obj\Debug\Sample_Ex.pdb
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\obj\Debug\Formulae.csprojAssemblyReference.cache
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\obj\Debug\Sample_Ex.APPInterface.resources
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\obj\Debug\Sample_Ex.Properties.Resources.resources
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\obj\Debug\Formulae.csproj.GenerateResource.cache
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\obj\Debug\Sample_Ex.exe
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\obj\Debug\Sample_Ex.pdb
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\Sample_Ex.exe.config
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\Sample_Ex.exe
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\Sample_Ex.pdb
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\dotNetRDF.dll
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\HtmlAgilityPack.dll
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\IronPython.dll
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\IronPython.Modules.dll
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\IronPython.SQLite.dll
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\IronPython.Wpf.dll
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\Microsoft.Dynamic.dll
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\Microsoft.Scripting.dll
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\Microsoft.Scripting.Metadata.dll
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\Newtonsoft.Json.dll
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\VDS.Common.dll
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\Lucene.Net.dll
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\dotNetRDF.xml
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\dotNetRDF.Query.FullText.pdb
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\dotNetRDF.Query.FullText.xml
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\dotNetRDF.Sparql.Core.pdb
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\dotNetRDF.Sparql.Core.xml
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\HtmlAgilityPack.pdb
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\HtmlAgilityPack.xml
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\IronPython.xml
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\IronPython.Modules.xml
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\IronPython.SQLite.xml
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\IronPython.Wpf.xml
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\Microsoft.Dynamic.xml
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\Microsoft.Scripting.xml
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\Microsoft.Scripting.Metadata.xml
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\Newtonsoft.Json.xml
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\VDS.Common.pdb
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\VDS.Common.xml
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\obj\Debug\Formulae.csproj.CopyComplete
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\CsvHelper.dll
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\CsvHelper.xml
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\LumenWorks.Framework.IO.dll
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\LumenWorks.Framework.IO.pdb
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\bin\Debug\LumenWorks.Framework.IO.xml
+E:\Second Semester\Knowledge Engineering Knowledge Managment\Course work\IDF0_KB_Rule & Concept Map\Hagos_Formulae_App\obj\Debug\Sample_Ex.RDF_Structure_KB.resources

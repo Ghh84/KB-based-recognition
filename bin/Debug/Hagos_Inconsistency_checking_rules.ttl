@@ -1,0 +1,44 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ind: <urn:inds:>.
+@prefix prop: <urn:prop:>.
+@prefix class: <urn:class:>.
+@prefix process: <urn:process:>. 
+#rules for checking inconsistency
+#Domain
+prop:hasKPI rdfs:domain process:recognitionModel.
+#Range
+prop:hasKPI rdfs:range process:displayResult.
+#oneof 
+ind:CavitIndex prop:subProcessOf process:recognitionModel.
+ind:flowRateIndex prop:subProcessOf process:recognitionModel.
+process:recognitionModel a owl:Class;
+            owl:oneOf(ind:CavitIndex ind:flowRateIndex).
+#owl disjointWith
+process:displayResult a owl:Class.
+process:signalAquisition a owl:Class.
+process:displayResult owl:disjointWith process:signalAquisition.
+#owl AllDisJointWith
+process:signalProcessing a owl:Class.
+process:recognitionModel a owl:Class.
+process:displayResultt a owl:Class.
+[] a owl:AllDisjointClasses;
+    owl:members(process:signalProcessing process:recognitionModel process:displayResult).
+#propertyDisjointWith
+prop:hasKPI a owl:ObjectProperty.
+prop:hasMax a owl:ObjectProperty.
+prop:hasKPI owl:propertyDisjointWith prop:hasMax.
+#owl IrreflexiveProperty
+prop:subProcessOf a owl:ObjectProperty,
+                    owl:IrreflexiveProperty.
+#owl AsymmetricProperty
+prop:hasKPI a owl:ObjectProperty,
+              owl:AsymmetricProperty.
+#owl negativePropertyAssertion
+ind:np1 a owl:NegativePropertyAssertion;
+          owl:sourceIndividual ind:formula;
+          owl:assertionProperty prop:subProcessOf;
+          owl:targetIndividual process:signalProcessing .
+ 

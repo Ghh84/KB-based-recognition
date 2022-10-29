@@ -1,0 +1,102 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ind: <urn:inds:>.
+@prefix prop: <urn:prop:>.
+@prefix class: <urn:class:>.
+@prefix process: <urn:process:>. 
+@prefix dc: <urn:dc:>.  #description
+ind:predictionModel rdf:type class:predictionModel;
+          dc:title "Power Prediction Model for Hydro Turbine" ;
+          dc:description "This is the KB for the process and sub process of the model." .
+ind:signalProcessing rdf:type process:signalProcessing ;
+                     rdfs:label "Signal Processing" ;
+                     prop:hasKPI  ind:samplingParameter; 
+                     rdfs:comment "The process for data processing";
+                     prop:subProcessOf ind:predictionModel.
+ind:neuralNetworkModel rdf:type process:neuralNetworkModel ;
+                       rdfs:label "Neural Network Model";
+                       prop:hasKPI  ind:powerCapacity; 
+                       rdfs:comment "The process of Neural Network ";
+                       prop:subProcessOf ind:predictionModel.
+ind:predictionResult rdf:type process:predictionResult;
+                     rdfs:label "Prediction Result";
+                     prop:hasKPI  ind:timePrediction ; 
+                     rdfs:comment "The process for prediction result";
+                     prop:subProcessOf ind:predictionModel.
+ind:signalAquisition rdf:type process:signalAquisition;
+		     rdfs:label "signal aquisition";
+                     prop:hasKPI  ind:samplingParameter; 
+               	     rdfs:comment "The process of signal Aquisition ";
+                     prop:subProcessOf ind:signalProcessing.
+ind:Preprocessing rdf:type process:Preprocessing;
+		        rdfs:label "Preprocessing";
+                        prop:hasKPI ind:OperationalCondition; 
+               	        rdfs:comment "The process of data preprocessing ";
+                        prop:subProcessOf ind:signalProcessing.
+ind:Transformation rdf:type process:Transformation;
+		            rdfs:label "Transformation To Matrixs";
+                            prop:hasKPI ind:covarianceMatrixs; 
+               	            rdfs:comment "The process of transformation To Matrixs ";
+                            prop:subProcessOf ind:signalProcessing.
+ind:dataPreparetion rdf:type process:dataPreparetion;
+	            rdfs:label "Data Preparetion";
+                    prop:hasKPI ind:scaleOfSplit; 
+                    rdfs:comment "collections of subprocess for data preparetion" ;
+                    prop:subProcessOf ind:neuralNetworkModel . 
+ind:modelBuilding rdf:type process:modelBuilding;
+	          rdfs:label "Model Building";
+                  prop:hasKPI ind:powerCapacity; 
+                  rdfs:comment "collections of subprocess for Model Building" ;
+                  prop:subProcessOf ind:neuralNetworkModel . 
+ind:modelEvaluation rdf:type process:modelEvaluation;
+	            rdfs:label "Model Evaluation";
+                    prop:hasKPI ind:accuracy; 
+                    rdfs:comment "The process for model evaluation"; 
+                    prop:subProcessOf ind:neuralNetworkModel.  
+ind:dataNormalization rdf:type process:dataNormalization;
+	              rdfs:label "Data Normalization";
+                      prop:hasKPI ind:featureScale; 
+                      rdfs:comment "The process of data normalization"; 
+                      prop:subProcessOf ind:dataPreparetion. 
+ind:dataStandardization rdf:type process:dataStandardization;
+	                rdfs:label "Data Standarization";
+                        prop:hasKPI ind:scale; 
+                        rdfs:comment "The process of data standardization";
+                        prop:subProcessOf ind:dataPreparetion.            
+ind:dataSplit rdf:type process:dataSplit;
+	      rdfs:label "Data Split";
+              prop:hasKPI ind:splitRatio; 
+              rdfs:comment "The process of data split";
+              prop:subProcessOf ind:dataPreparetion.
+ind:NNModel rdf:type process:NNModel;
+	    rdfs:label "NN Model";
+            prop:hasKPI ind:powerCapacity; 
+            rdfs:comment "The process of NNModel";
+            prop:subProcessOf ind:modelBuilding .
+ind:modelTrain rdf:type process:modelTrain;
+	       rdfs:label "Model Train";
+               prop:hasKPI ind:trainingParameter; 
+               rdfs:comment "The process of modelTrain";
+               prop:subProcessOf ind:modelBuilding .
+ind:modelTest rdf:type process:modelTest;
+	      rdfs:label "Model Test";
+              prop:hasKPI ind:testingParameter; 
+              rdfs:comment "The process of modelTest ";
+              prop:subProcessOf ind:modelBuilding .
+#interval value for KPI powerCapacity
+ind:goodPredict prop:subProcessof ind:predictionResult;
+                prop:hasKPI ind:powerCapacity;
+                rdfs:label "Good prediction";
+                prop:isResultOf ind:interval1.
+ind:interval1 prop:belongTo ind:powerCapacity;
+              prop:hasMin 2;
+              prop:hasMax 5. 
+ind:badPredict prop:subProcessof ind:predictionResult;
+               prop:hasKPI ind:powerCapacity;
+               rdfs:label "Bad prediction";
+               prop:isResultOf ind:interval1.
+ind:interval1 prop:belongTo ind:powerCapacity;
+              prop:hasMin 2;
+              prop:ihasMax 5. 
+

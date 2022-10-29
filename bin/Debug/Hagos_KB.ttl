@@ -1,0 +1,106 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ind: <urn:inds:>.
+@prefix prop: <urn:prop:>.
+@prefix class: <urn:class:>.
+@prefix process: <urn:process:>. 
+@prefix dc: <urn:dc:>.  #description
+ind:CavitationRecognition rdf:type process:CavitationRecognition;
+          dc:title "Cavitation State Recognition for Hydro Turbine" ;
+          dc:description "This is the KB for the process and sub process of the model." .
+#Sub process of process:CavitationRecognition
+ind:signalProcessing rdf:type process:signalProcessing ;
+                     rdfs:label "Signal Processing" ;
+                     prop:hasKPI  ind:samplingParameter; 
+                     rdfs:comment "The process for data processing";
+                     prop:subProcessOf process:CavitationRecognition.
+ind:recognition rdf:type process:recognitionModel ;
+                       rdfs:label "Recognition Model";
+                       prop:hasKPI  ind:cavitationIndex,ind:flowRateIndex; 
+                       rdfs:comment "The process of cavitation Recognition ";
+                       prop:subProcessOf process:CavitationRecognition.
+ind:cavitationIndex rdfs:dataType xsd:decimal;
+                    prop:hasMin 0.3;
+                    prop:hasMid 1.8;
+                    prop:hasMax 3;                    
+                    a class:KPI.
+ind:flowRateIndex rdfs:dataType xsd:decimal;
+                    prop:hasMin 2.3;
+                    prop:hasMid 3.18; 
+                    prop:hasMax 8.12;
+                    a class:KPI.
+ind:display rdf:type process:displayResult;
+	        rdfs:label "Display the output of recognition";
+            rdfs:comment "The process for model evaluation"; 
+            prop:subProcessOf process:CavitationRecognition. 
+#Sub process of process:signalProcessing
+ind:signalAquisition rdf:type process:signalAquisition;
+		             rdfs:label "signal aquisition";
+                     prop:hasKPI  ind:samplingParameter; 
+               	     rdfs:comment "The process of signal Aquisition ";
+                     prop:subProcessOf process:signalProcessing.
+ind:Preprocessing rdf:type process:Preprocessing;
+		          rdfs:label "Preprocessing or ADC";
+                  prop:hasKPI ind:OperationalCondition; 
+               	  rdfs:comment "The process of data preprocessing ";
+                  prop:subProcessOf process:signalProcessing.
+#Sub process of process:recognitionModel. 
+ind:formula rdf:type process:monitoring;
+	        rdfs:label "signal monitoring ";
+            prop:hasKPI ind:formula; 
+            rdfs:comment "monitoring signal" ;
+            prop:subProcessOf process:recognitionModel. 
+ind:KBmodel rdf:type process:KBNN;
+	        rdfs:label "Model Building";
+            prop:hasKPI  ind:cavitationIndex,ind:flowRateIndex; 
+            rdfs:comment "KBNN model for automatic recognition state based on KB" ;
+            prop:subProcessOf process:recognitionModel. 
+#Sub process of process:monitoring;
+ind:CavitIndex rdf:type process:CavitIndexFormulae;
+	           rdfs:label "monitoring Calculation Cavitation Index Range";
+               prop:hasConstant ind:density, ind:APressure;
+               prop:hasInput ind:pressure, ind:velocity;
+               prop:hasKPI ind:featureScale; 
+               rdfs:comment "Calculate the range of index for pressure"; 
+               prop:subProcessOf process:monitoring. 
+ind:flowRateIndex rdf:type process:flowrateIndexFormulae;
+	           rdfs:label "monitoring  for flow rate range index";
+               prop:hasInput ind:flowRate;
+               prop:hasKPI ind:featureScale; 
+               rdfs:comment "The process of data normalization"; 
+               prop:subProcessOf process:formulae. 
+#Sub process of process:KBNN;
+ind:Model rdf:type process:buildModel;
+	    rdfs:label "Build KBNN Model";
+            prop:hasKPI  ind:cavitationIndex, ind:flowRateIndex;
+            rdfs:comment "The process of KBNN Model";
+            prop:subProcessOf process:KBNN .
+ind:train rdf:type process:trainModel;
+	       rdfs:label "Model Train";
+               prop:hasKPI ind:trainingParameter; 
+               rdfs:comment "The process of modelTrain";
+               prop:subProcessOf process:KBNN .
+ind:test rdf:type process:testModel;
+	      rdfs:label "Model Test";
+              prop:hasKPI ind:testingParameter; 
+              rdfs:comment "The process of modelTest ";
+              prop:subProcessOf process:KBNN .
+#interval value for KPI1 pressure
+ind:cavitationIndex prop:subProcessof process:displayResult;
+                prop:hasKPI ind:pressure;
+                prop:isResultOf ind:interval1.
+ind:interval1 prop:belongTo ind:pressure;
+              prop:minformulaeId "minPreId";
+			  prop:midformulaeId "midPreId";
+              prop:maxformulaeId "maxPreId". 
+#for KPI2 flow rate interval
+ind:flowRateIndex prop:subProcessof process:displayResult;
+                prop:hasKPI ind:flowRate;
+                prop:isResultOf ind:interval2.
+ind:interval2 prop:belongTo ind:flowRate;
+              prop:minformulaeId "minFlowId";
+			  prop:midformulaeId "midFlowId";
+              prop:maxformulaeId "maxFlowId".	  
+
+

@@ -1,0 +1,103 @@
+E:\Second Semester\Software Development Technologies\Exercise\Sample_Ex\bin\Debug\Sample_Ex.exe.config
+E:\Second Semester\Software Development Technologies\Exercise\Sample_Ex\bin\Debug\Sample_Ex.exe
+E:\Second Semester\Software Development Technologies\Exercise\Sample_Ex\bin\Debug\Sample_Ex.pdb
+E:\Second Semester\Software Development Technologies\Exercise\Sample_Ex\bin\Debug\dotNetRDF.dll
+E:\Second Semester\Software Development Technologies\Exercise\Sample_Ex\bin\Debug\dotNetRDF.Query.FullText.dll
+E:\Second Semester\Software Development Technologies\Exercise\Sample_Ex\bin\Debug\dotNetRDF.Sparql.Core.dll
+E:\Second Semester\Software Development Technologies\Exercise\Sample_Ex\bin\Debug\HtmlAgilityPack.dll
+E:\Second Semester\Software Development Technologies\Exercise\Sample_Ex\bin\Debug\Newtonsoft.Json.dll
+E:\Second Semester\Software Development Technologies\Exercise\Sample_Ex\bin\Debug\VDS.Common.dll
+E:\Second Semester\Software Development Technologies\Exercise\Sample_Ex\bin\Debug\Lucene.Net.dll
+E:\Second Semester\Software Development Technologies\Exercise\Sample_Ex\bin\Debug\dotNetRDF.xml
+E:\Second Semester\Software Development Technologies\Exercise\Sample_Ex\bin\Debug\dotNetRDF.Query.FullText.pdb
+E:\Second Semester\Software Development Technologies\Exercise\Sample_Ex\bin\Debug\dotNetRDF.Query.FullText.xml
+E:\Second Semester\Software Development Technologies\Exercise\Sample_Ex\bin\Debug\dotNetRDF.Sparql.Core.pdb
+E:\Second Semester\Software Development Technologies\Exercise\Sample_Ex\bin\Debug\dotNetRDF.Sparql.Core.xml
+E:\Second Semester\Software Development Technologies\Exercise\Sample_Ex\bin\Debug\HtmlAgilityPack.pdb
+E:\Second Semester\Software Development Technologies\Exercise\Sample_Ex\bin\Debug\HtmlAgilityPack.xml
+E:\Second Semester\Software Development Technologies\Exercise\Sample_Ex\bin\Debug\Newtonsoft.Json.xml
+E:\Second Semester\Software Development Technologies\Exercise\Sample_Ex\bin\Debug\VDS.Common.pdb
+E:\Second Semester\Software Development Technologies\Exercise\Sample_Ex\bin\Debug\VDS.Common.xml
+E:\Second Semester\Software Development Technologies\Exercise\Sample_Ex\obj\Debug\RDF_Application.csprojAssemblyReference.cache
+E:\Second Semester\Software Development Technologies\Exercise\Sample_Ex\obj\Debug\Sample_Ex.Form1.resources
+E:\Second Semester\Software Development Technologies\Exercise\Sample_Ex\obj\Debug\Sample_Ex.Properties.Resources.resources
+E:\Second Semester\Software Development Technologies\Exercise\Sample_Ex\obj\Debug\RDF_Application.csproj.GenerateResource.cache
+E:\Second Semester\Software Development Technologies\Exercise\Sample_Ex\obj\Debug\RDF_Application.csproj.CopyComplete
+E:\Second Semester\Software Development Technologies\Exercise\Sample_Ex\obj\Debug\Sample_Ex.exe
+E:\Second Semester\Software Development Technologies\Exercise\Sample_Ex\obj\Debug\Sample_Ex.pdb
+E:\Second Semester\Software Development Technologies\Application and Kb\Hagos_Application1\bin\Debug\Sample_Ex.exe.config
+E:\Second Semester\Software Development Technologies\Application and Kb\Hagos_Application1\bin\Debug\Sample_Ex.exe
+E:\Second Semester\Software Development Technologies\Application and Kb\Hagos_Application1\bin\Debug\Sample_Ex.pdb
+E:\Second Semester\Software Development Technologies\Application and Kb\Hagos_Application1\bin\Debug\dotNetRDF.dll
+E:\Second Semester\Software Development Technologies\Application and Kb\Hagos_Application1\bin\Debug\HtmlAgilityPack.dll
+E:\Second Semester\Software Development Technologies\Application and Kb\Hagos_Application1\bin\Debug\Newtonsoft.Json.dll
+E:\Second Semester\Software Development Technologies\Application and Kb\Hagos_Application1\bin\Debug\VDS.Common.dll
+E:\Second Semester\Software Development Technologies\Application and Kb\Hagos_Application1\bin\Debug\Lucene.Net.dll
+E:\Second Semester\Software Development Technologies\Application and Kb\Hagos_Application1\bin\Debug\dotNetRDF.xml
+E:\Second Semester\Software Development Technologies\Application and Kb\Hagos_Application1\bin\Debug\dotNetRDF.Query.FullText.pdb
+E:\Second Semester\Software Development Technologies\Application and Kb\Hagos_Application1\bin\Debug\dotNetRDF.Query.FullText.xml
+E:\Second Semester\Software Development Technologies\Application and Kb\Hagos_Application1\bin\Debug\dotNetRDF.Sparql.Core.pdb
+E:\Second Semester\Software Development Technologies\Application and Kb\Hagos_Application1\bin\Debug\dotNetRDF.Sparql.Core.xml
+E:\Second Semester\Software Development Technologies\Application and Kb\Hagos_Application1\bin\Debug\HtmlAgilityPack.pdb
+E:\Second Semester\Software Development Technologies\Application and Kb\Hagos_Application1\bin\Debug\HtmlAgilityPack.xml
+E:\Second Semester\Software Development Technologies\Application and Kb\Hagos_Application1\bin\Debug\Newtonsoft.Json.xml
+E:\Second Semester\Software Development Technologies\Application and Kb\Hagos_Application1\bin\Debug\VDS.Common.pdb
+E:\Second Semester\Software Development Technologies\Application and Kb\Hagos_Application1\bin\Debug\VDS.Common.xml
+E:\Second Semester\Software Development Technologies\Application and Kb\Hagos_Application1\obj\Debug\RDF_Application.csprojAssemblyReference.cache
+E:\Second Semester\Software Development Technologies\Application and Kb\Hagos_Application1\obj\Debug\Sample_Ex.Form1.resources
+E:\Second Semester\Software Development Technologies\Application and Kb\Hagos_Application1\obj\Debug\Sample_Ex.Properties.Resources.resources
+E:\Second Semester\Software Development Technologies\Application and Kb\Hagos_Application1\obj\Debug\RDF_Application.csproj.GenerateResource.cache
+E:\Second Semester\Software Development Technologies\Application and Kb\Hagos_Application1\obj\Debug\RDF_Application.csproj.CopyComplete
+E:\Second Semester\Software Development Technologies\Application and Kb\Hagos_Application1\obj\Debug\Sample_Ex.exe
+E:\Second Semester\Software Development Technologies\Application and Kb\Hagos_Application1\obj\Debug\Sample_Ex.pdb
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_Application1\obj\Debug\RDF_Application.csprojAssemblyReference.cache
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_Application1\obj\Debug\Sample_Ex.exe
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_Application1\obj\Debug\Sample_Ex.pdb
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_Application1\bin\Debug\Sample_Ex.exe.config
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_Application1\bin\Debug\Sample_Ex.exe
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_Application1\bin\Debug\Sample_Ex.pdb
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_Application1\bin\Debug\dotNetRDF.dll
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_Application1\bin\Debug\HtmlAgilityPack.dll
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_Application1\bin\Debug\Newtonsoft.Json.dll
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_Application1\bin\Debug\VDS.Common.dll
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_Application1\bin\Debug\Lucene.Net.dll
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_Application1\bin\Debug\dotNetRDF.xml
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_Application1\bin\Debug\dotNetRDF.Query.FullText.pdb
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_Application1\bin\Debug\dotNetRDF.Query.FullText.xml
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_Application1\bin\Debug\dotNetRDF.Sparql.Core.pdb
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_Application1\bin\Debug\dotNetRDF.Sparql.Core.xml
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_Application1\bin\Debug\HtmlAgilityPack.pdb
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_Application1\bin\Debug\HtmlAgilityPack.xml
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_Application1\bin\Debug\Newtonsoft.Json.xml
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_Application1\bin\Debug\VDS.Common.pdb
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_Application1\bin\Debug\VDS.Common.xml
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_Application1\obj\Debug\Sample_Ex.Form1.resources
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_Application1\obj\Debug\Sample_Ex.Properties.Resources.resources
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_Application1\obj\Debug\RDF_Application.csproj.GenerateResource.cache
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_Application1\obj\Debug\RDF_Application.csproj.CopyComplete
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_Application1\obj\Debug\Sample_Ex.Form2.resources
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_KBNN\Hagos_Application1\obj\Debug\RDF_Application.csprojAssemblyReference.cache
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_KBNN\Hagos_Application1\obj\Debug\Sample_Ex.exe
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_KBNN\Hagos_Application1\obj\Debug\Sample_Ex.pdb
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_KBNN\Hagos_Application1\obj\Debug\Sample_Ex.Form2.resources
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_KBNN\Hagos_Application1\obj\Debug\Sample_Ex.Properties.Resources.resources
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_KBNN\Hagos_Application1\obj\Debug\RDF_Application.csproj.GenerateResource.cache
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_KBNN\Hagos_Application1\bin\Debug\Sample_Ex.exe.config
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_KBNN\Hagos_Application1\bin\Debug\Sample_Ex.exe
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_KBNN\Hagos_Application1\bin\Debug\Sample_Ex.pdb
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_KBNN\Hagos_Application1\bin\Debug\dotNetRDF.dll
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_KBNN\Hagos_Application1\bin\Debug\HtmlAgilityPack.dll
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_KBNN\Hagos_Application1\bin\Debug\Newtonsoft.Json.dll
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_KBNN\Hagos_Application1\bin\Debug\VDS.Common.dll
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_KBNN\Hagos_Application1\bin\Debug\Lucene.Net.dll
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_KBNN\Hagos_Application1\bin\Debug\dotNetRDF.xml
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_KBNN\Hagos_Application1\bin\Debug\dotNetRDF.Query.FullText.pdb
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_KBNN\Hagos_Application1\bin\Debug\dotNetRDF.Query.FullText.xml
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_KBNN\Hagos_Application1\bin\Debug\dotNetRDF.Sparql.Core.pdb
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_KBNN\Hagos_Application1\bin\Debug\dotNetRDF.Sparql.Core.xml
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_KBNN\Hagos_Application1\bin\Debug\HtmlAgilityPack.pdb
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_KBNN\Hagos_Application1\bin\Debug\HtmlAgilityPack.xml
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_KBNN\Hagos_Application1\bin\Debug\Newtonsoft.Json.xml
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_KBNN\Hagos_Application1\bin\Debug\VDS.Common.pdb
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_KBNN\Hagos_Application1\bin\Debug\VDS.Common.xml
+E:\Second Semester\Software Development Technologies\KBNN\Hagos_KBNN\Hagos_Application1\obj\Debug\RDF_Application.csproj.CopyComplete
